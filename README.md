@@ -21,4 +21,4 @@
 如何使用
 --------
 	下載 zip 檔，解壓縮。
-	執行 Observer.exe ( 位置：\ Observer \ bin \ Debug \ Observer.exe )
+	執行 testStation.java 
